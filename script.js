@@ -9,9 +9,7 @@ createGrid();
 
 function createGrid() {
 let gridSize = `${800/grid}px`;
-console.log (gridSize);
-    // boxStyle.style.width = gridSize;
-    // boxStyle.style.height = gridSize;
+
     for (i=1;i<=(grid*grid);i++){
         let box = document.createElement('div');
         box.setAttribute('id','box-style');
@@ -37,7 +35,7 @@ function clearAll() {
     }
     newGridSize();
     createGrid();
-    return (grid);
+
 }
 
 function newGridSize(){

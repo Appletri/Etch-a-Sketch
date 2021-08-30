@@ -1,3 +1,10 @@
+html {
+    background-image: radial-gradient(white, black);
+}
+h1 {
+    color:white;
+}
+
 body {
     text-align:center;
     align-content: center;
@@ -13,6 +20,7 @@ button {
     display: block;
     width:800px;
     height:800px;
+    background-color: white;
     box-shadow: 0px 0px 12px black;
     font-size:0;
 }
