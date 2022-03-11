@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-![](https://github.com/Appletri/Appletri/blob/main/assets/weather-Jarvis.gif)
+![](https://github.com/Appletri/Appletri/blob/main/assets/etch-a-sketch.JPG)
 
 ## Links
 - [Try Etch-a-Sketch here!](https://Appletri.github.io/Etch-a-Sketch/)
